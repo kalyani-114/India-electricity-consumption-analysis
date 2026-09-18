@@ -300,4 +300,4 @@ Streamlit will start a local web server and automatically open the dashboard in 
 
 ---
 
-*Project developed as part of a Data Analyst internship portfolio.*
+
